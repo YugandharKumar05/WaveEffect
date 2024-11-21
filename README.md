@@ -28,7 +28,7 @@ Replace this with an actual GIF or image showcasing your app.
 
 # Installation 🚀
 Clone the repository:
-# git clone https://github.com/your-username/wave-effect-demo.git
+# git clone https://github.com/YugandharKumar05/WaveEffect.git
 
 Open the project in Android Studio.
 Sync Gradle and build the project.
