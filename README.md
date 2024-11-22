@@ -1,7 +1,11 @@
 #  Wave Effect Demo 🌊🐢
 A fun and interactive Android app showcasing wave animations and user interactions using Jetpack Compose. This project blends animation, user input, and dynamic visuals to create an engaging and playful experience.
 
+
+https://github.com/user-attachments/assets/b97bcad8-a103-4ca5-b90d-09efe54fe6fd
+
 # Features ✨
+
 Dynamic Wave Animation: A flowing wave at the bottom of the screen simulates realistic water movement using Canvas and mathematical calculations.
 
 # Interactive Slider: Adjust the slider to change:
